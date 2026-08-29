@@ -1,6 +1,6 @@
 # Exercise 18 — Pricing Plan Section
 
-[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-18-pricing-plan-section/) · [HTML source](index.html) · [CSS source](styles.css)
+[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-18-pricing-plan-section/) · [HTML source](index.html) · [CSS source](styles.css)
 
 ![Rendered preview](preview.png)
 
