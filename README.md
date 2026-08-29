@@ -1,6 +1,6 @@
 # Exercise 18 — Pricing Plan Section
 
-[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-18-pricing-plan-section/) · [View source](https://github.com/vigneshsrinivasan-sys/exercise-18-pricing-plan-section)
+[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-18-pricing-plan-section/) · [HTML source](index.html) · [CSS source](styles.css)
 
 ![Rendered preview](preview.png)
 
@@ -25,4 +25,3 @@ Two pricing cards share repeated feature lists inside a max-width composition, w
 ## Sequence
 
 **Exercise 18 of 27** · Independent practice
-
